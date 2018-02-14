@@ -1,0 +1,5 @@
+numpy
+Pillow
+progressbar2
+termcolor
+stop-words
