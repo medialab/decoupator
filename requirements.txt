@@ -2,4 +2,5 @@ numpy
 Pillow
 progressbar2
 termcolor
+spacy
 stop-words
